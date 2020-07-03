@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+
+    <string-array name="initial_currency">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HRN</item>
+    </string-array>
+
+    <string-array name="result_currency">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HRN</item>
+    </string-array>
+</resources>
