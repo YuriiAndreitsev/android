@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaTest</string>
+    <string name="bart_simpson">bart</string>
+    <string name="homer_simpson">homer</string>
+</resources>

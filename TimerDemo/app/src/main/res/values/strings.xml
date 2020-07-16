@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimerDemo</string>
+    <string name="setTimer">Set timer (Max 10 min)</string>
+    <string name="buttonName">Start</string>
+</resources>
